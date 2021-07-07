@@ -9,7 +9,7 @@ Predictive analytics has become a major player in professional sports.  While mo
 <img width="617" alt="Screen Shot 2021-07-06 at 10 16 25 PM" src="https://user-images.githubusercontent.com/60716763/124691283-95dc1580-dea9-11eb-8690-66dbe78b4e46.png">
 
 ## Predictions - Chances of Padres Making 2021 Playoffs
-<img width="719" alt="Screen Shot 2021-06-24 at 3 47 07 PM" src="https://user-images.githubusercontent.com/60716763/124691543-f9fed980-dea9-11eb-8e37-e8fda83fccb7.png">
+<img width="703" alt="Screen Shot 2021-07-06 at 11 18 03 PM" src="https://user-images.githubusercontent.com/60716763/124695077-83190f00-deb0-11eb-9fbc-3d3640b35edf.png">
 
 
 ## Batting - Algorithm Results
@@ -23,6 +23,6 @@ Predictive analytics has become a major player in professional sports.  While mo
 
 
 
-
 ## Artifical Neural Network Results
-<<img width="375" alt="Screen Shot 2021-07-06 at 10 18 48 PM" src="https://user-images.githubusercontent.com/60716763/124690532-5a8d1700-dea8-11eb-9dce-d7d30f1495c4.png">
+<img width="278" alt="Screen Shot 2021-07-06 at 11 17 49 PM" src="https://user-images.githubusercontent.com/60716763/124695100-8e6c3a80-deb0-11eb-9dcd-1078b5a6e943.png">
+
