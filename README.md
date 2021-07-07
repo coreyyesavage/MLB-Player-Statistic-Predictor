@@ -8,6 +8,9 @@ Predictive analytics has become a major player in professional sports.  While mo
 ## Predictions - Batting Totals
 <img width="617" alt="Screen Shot 2021-07-06 at 10 16 25 PM" src="https://user-images.githubusercontent.com/60716763/124691283-95dc1580-dea9-11eb-8690-66dbe78b4e46.png">
 
+## Predictions - Chances of Padres Making 2021 Playoffs
+<img width="719" alt="Screen Shot 2021-06-24 at 3 47 07 PM" src="https://user-images.githubusercontent.com/60716763/124691543-f9fed980-dea9-11eb-8e37-e8fda83fccb7.png">
+
 
 ## Batting - Algorithm Results
 <img width="1263" alt="Screen Shot 2021-07-06 at 10 22 45 PM" src="https://user-images.githubusercontent.com/60716763/124690834-c5d6e900-dea8-11eb-89d3-d108fc6a69a7.png">
