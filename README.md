@@ -5,6 +5,11 @@ Predictive analytics has become a major player in professional sports.  While mo
 ## Batting - Algorithm Results
 <img width="1263" alt="Screen Shot 2021-07-06 at 10 22 45 PM" src="https://user-images.githubusercontent.com/60716763/124690834-c5d6e900-dea8-11eb-89d3-d108fc6a69a7.png">
 
+## Starting Pitchers - Algorithm Results
+<img width="639" alt="Screen Shot 2021-07-06 at 10 25 59 PM" src="https://user-images.githubusercontent.com/60716763/124691114-485fa880-dea9-11eb-8dc2-7fd714f98066.png">
+
+## Relief Pitchers - Algorithm Results
+<img width="521" alt="Screen Shot 2021-07-06 at 10 26 22 PM" src="https://user-images.githubusercontent.com/60716763/124691152-57def180-dea9-11eb-9748-dde5d0707fc9.png">
 
 
 
